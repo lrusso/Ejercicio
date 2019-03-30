@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ejercicio</string>
+    <string name="stringSettings">Settings</string>
+    <string name="stringAlertExample">Alert example</string>
+    <string name="stringToastExample">Toast example</string>
+    <string name="stringButtonTitle">Title example</string>
+    <string name="stringButtonMessage">Message example</string>
+    <string name="stringButtonOK">OK</string>
+    <string name="stringOpenDrawer">Open drawer</string>
+    <string name="stringCloseDrawer">Close drawer</string>
+    <string name="stringPleaseWait">Please wait&#8230;</string>
+    <string-array name="stringMenu">
+        <item>Google</item>
+        <item>Buttons</item>
+    </string-array>
+</resources>
